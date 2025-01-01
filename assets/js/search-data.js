@@ -439,6 +439,13 @@ ninja.data = [{
           window.open("mailto:%61%6B%61%6D%62%65%72@%75%63%73%64.%65%64%75", "_blank");
         },
       },{
+        id: 'social-linkedin',
+        title: 'LinkedIn',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.linkedin.com/in/anlkamber", "_blank");
+        },
+      },{
         id: 'social-rss',
         title: 'RSS Feed',
         section: 'Socials',
