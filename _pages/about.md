@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: ECE PhD student at <a href='https://ucsd.edu/'>UC San Diego</a>
+subtitle: ECE PhD student at <a href='https://ucsd.edu/'>UC San Diego</a>.
 
 profile:
   align: right
@@ -11,15 +11,16 @@ profile:
   more_info: >
     <p>555 your office number</p>
     <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>La Jolla, CA 92092</p>
 
 news: false # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a first year Electrical and Computer Engineering PhD student at [University of California, San Diego](https://ucsd.edu/) [Jacobs School of Engineering](https://jacobsschool.ucsd.edu/).
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I am interested in the theoretical foundations of artificial intelligence. Therefore, my research interests lie at the intersection of optimization theory, compressed sensing, and theoretical neuroscience.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I received my bachelor's degree in Electrical and Electronics Engineering from [Bogazici University](https://bogazici.edu.tr/en_us), Istanbul, Turkey. My bachelor's thesis, titled [Blind Source Separation in Neuroscience](https://github.com/anlkamber3/polytopic-matrix-factorization-eeg), which was advised by Prof. Alper Erdogan and Prof. Burak Acar, won the [Cenker Oden Senior Design Project Award](https://github.com/anlkamber3/polytopic-matrix-factorization-eeg), awarded for the best theoretical undergraduate research. Additionally, I derived the channel response of the SISO molecular communication via diffusion system in a 3-D half-space with an infinite reflecting surface under supervision of Prof. Ali Emre Pusane.
+ 
