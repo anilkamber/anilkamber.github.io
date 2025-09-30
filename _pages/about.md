@@ -1,7 +1,7 @@
 ---
 layout: about
 title: about
-permalink: /about/
+permalink: /
 subtitle: ECE PhD student at <a href='https://ucsd.edu/'>UC San Diego</a>.
 
 profile:
