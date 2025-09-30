@@ -1,7 +1,7 @@
 ---
 layout: about
 title: about
-permalink: /
+permalink: akamber [at] ucsd [dot] edu
 subtitle: ECE PhD student at <a href='https://ucsd.edu/'>UC San Diego</a>.
 
 profile:
