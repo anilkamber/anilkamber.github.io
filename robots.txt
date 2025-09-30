@@ -1,1 +1,1 @@
-User-agent: * Disallow: Sitemap: https://anlkamber3.github.io/sitemap.xml
+User-agent: * Disallow: Sitemap: https://anilkamber.github.io/sitemap.xml
