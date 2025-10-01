@@ -3,7 +3,7 @@ layout: about
 title: about
 permalink: /
 subtitle: ECE PhD student at <a href='https://ucsd.edu/'>UC San Diego</a>.
-
+<span id="footnote">[1] "Anıl" means "to be remembered" in Turkish.</span>
 profile:
   align: right
   image: prof_pic.jpg
