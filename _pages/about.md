@@ -3,7 +3,7 @@ layout: about
 title: about
 permalink: /
 subtitle: ECE PhD student at <a href='https://ucsd.edu/'>UC San Diego</a>.
-<p><small><sup>1</sup> Doctoral researcher in Electrical and Computer Engineering</small></p>
+
 profile:
   align: right
   image: prof_pic.jpg
