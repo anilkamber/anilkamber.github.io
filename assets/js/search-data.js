@@ -3,9 +3,8 @@ const ninja = document.querySelector('ninja-keys');
 
 // add the home and posts menu items
 ninja.data = [{
-    id: "nav-anıl-kamber-br-small-i-this-website-is-under-construction-i-small",
-    title: "Anıl Kamber <br>
-<small><i>*This website is under construction*</i></small>",
+    id: "nav-about",
+    title: "about",
     section: "Navigation",
     handler: () => {
       window.location.href = "/";
