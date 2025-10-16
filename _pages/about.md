@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-note: (An- means <em>‘moment’</em>, Anı- means <em>‘memory’</em>, and Anıl is the passive form of <em>‘to remember’</em> in Turkish.)
+note: An- means <em>‘moment’</em>, Anı- means <em>‘memory’</em>, and Anıl is the passive form of <em>‘to remember’</em> in Turkish.
 subtitle: ECE PhD student at <a href='https://ucsd.edu/'>UC San Diego</a>.
 
 
