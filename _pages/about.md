@@ -3,6 +3,7 @@ layout: about
 title: about
 permalink: /
 subtitle: ECE PhD student at <a href='https://ucsd.edu/'>UC San Diego</a>.
+subtitle2: (An- means ‘moment’, Anı- means ‘memory’, and Anıl is the passive form of ‘to remember’ in Turkish.)
 
 profile:
   align: right
